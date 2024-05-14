@@ -243,8 +243,4 @@ chmod +x setup-arl.sh
 
 请访问如下链接[FAQ](https://tophanttechnology.github.io/ARL-doc/faq/)
 
-### 写在最后
 
-目前ARL仅仅只是完成了对资产的部分维度的发现和收集，自动发现过程中难免出现覆盖度不全、不精准、不合理等缺陷的地方还请反馈至我们。  
-
-![公众号](./image/logo.jpg)
